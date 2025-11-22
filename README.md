@@ -1,5 +1,5 @@
 # <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png"/> Awesome Diffusion × Autoregression (DxAR)
-A curated list of hybrid Diffusion + Autoregressive (DxAR) models for language, reasoning, robots, and sign language.
+A curated list of hybrid Diffusion + Autoregressive (ARxDiff) models for language, reasoning, and robots.
 
 <img height=220 src="./img/dxar.png" alt="Diffusion × Autoregression hybrid models illustration"/>
 
@@ -12,7 +12,6 @@ A curated list of hybrid Diffusion + Autoregressive (DxAR) models for language, 
 - 📝 **Autoregressive-style generation** – left-to-right or causal decoding.
 - 🧠 **Language & reasoning**
 - 🤖 **Embodied / VLA / robotics**
-- 👐 **Sign language / motion**
 - ⚡ **Inference efficiency / decoding tricks**
 - 📐 **Theory / general frameworks**
 
@@ -53,13 +52,6 @@ A curated list of hybrid Diffusion + Autoregressive (DxAR) models for language, 
 
 ---
 
-### 👐 Sign Language & Motion
-
-#### 2025
-- 2025 👐🔗 Hybrid Autoregressive-Diffusion Model for Real-Time Streaming Sign Language Production. [arXiv:2507.09105](https://arxiv.org/abs/2507.09105)
-
----
-
 ### 📐 Theory & General Frameworks
 
 #### 2025
@@ -77,23 +69,7 @@ A curated list of hybrid Diffusion + Autoregressive (DxAR) models for language, 
 - Check **Sign Language & Motion** for non-verbal sequence generation.
 - See **Theory & General Frameworks** for conceptual overviews of autoregression vs diffusion.
 
-
-## 5. Naming Suggestions
-
-For the GitHub repository name, a few options (all in English):
-
-- **`diffusion-ar-hybrids`** – short, descriptive, easy to search (recommended).
-- `awesome-ar-diffusion` – if you want a more “awesome-list” vibe.
-- `planner-executor-diff-ar` – if you want to emphasize reasoning / planner–executor as the main theme.
-
-You can set the repository title to something like:
-
-> **“Diffusion × Autoregression: Hybrid Models for Language, Reasoning, and VLA”**
-
-and keep this README as the landing page.
-
 ---
-
 
 
 ## 🧩 Want to Contribute?
@@ -106,5 +82,3 @@ We welcome contributions! Please feel free to submit a PR or open an issue if yo
 - Use consistent formatting: `YEAR ICONS Title. [arXiv:ID](https://arxiv.org/abs/ID)`.
 - Prefer papers with an **arXiv entry** so that every bullet has a stable link.
 - If you add new domains (e.g., speech, images, code), consider adding a new section with its own icon.
-
----
