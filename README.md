@@ -8,12 +8,12 @@ A curated list of hybrid Diffusion + Autoregressive (ARxDiff) models for languag
 ## <img height=28 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png"/> Legend
 
 - 🔗 **Hybrid (Diffusion × Autoregression)** – explicit collaboration between a diffusion module and an autoregressive module.
-- 💭 **Diffusion-style generation** – masked / block / discrete diffusion or flow matching.
-- 📝 **Autoregressive-style generation** – left-to-right or causal decoding.
-- 🧠 **Language & reasoning**
-- 🤖 **Embodied / VLA / robotics**
-- ⚡ **Inference efficiency / decoding tricks**
-- 📐 **Theory / general frameworks**
+- 💭 **Diffusion-style generation** – masked / block / discrete diffusion or flow-style iterative refinement.
+- 📝 **Autoregressive-style generation** – left-to-right or causal decoding over tokens or actions.
+- 🧠 **Language & reasoning** – tasks centered on text generation, multi-step reasoning, planning, or tool use.
+- 🤖 **Embodied / VLA / robotics** – agents that perceive, think, and act (vision–language–action, robot control, visuomotor policies).
+- ⚡ **Inference efficiency / decoding tricks** – methods focused on faster sampling, KV cache, block-wise decoding, or test-time scaling.
+- 📐 **Theory / general frameworks** – conceptual or theoretical work comparing AR vs diffusion or unifying them in a shared view.
 
 ---
 
@@ -61,16 +61,6 @@ A curated list of hybrid Diffusion + Autoregressive (ARxDiff) models for languag
 - 2023 📐 Sequential Data Generation with Groupwise Diffusion Process. [arXiv:2310.01400](https://arxiv.org/abs/2310.01400)
 
 ---
-
-## <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Office/Memo.png"/> How to Use This Repo
-
-- Start from **Language & Reasoning** if you care about hybrid diffusion–AR language models (DxAR) for text.
-- Look at **Embodied / VLA** for robot and vision-language-action hybrids.
-- Check **Sign Language & Motion** for non-verbal sequence generation.
-- See **Theory & General Frameworks** for conceptual overviews of autoregression vs diffusion.
-
----
-
 
 ## 🧩 Want to Contribute?
 
