@@ -1,6 +1,8 @@
 # <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png"/> Awesome Diffusion × Autoregression (DiffxAR)
 A curated list of hybrid Diffusion + Autoregressive (DiffxAR) models for language, reasoning, and robots.
 
+Note: Currently, this repository is under construction, some tags may be wrong or unclear, and some important papers may not be covered. We welcome everyone's comments and contributions!
+
 ---
 
 ## <img height=28 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png"/> Legend
@@ -43,7 +45,7 @@ A curated list of hybrid Diffusion + Autoregressive (DiffxAR) models for languag
 - 2025 🧱🪜⚙️ Blockwise SFT for Diffusion Language Models: Reconciling Bidirectional Attention and Autoregressive Decoding. [arXiv:2508.19529](https://arxiv.org/abs/2508.19529)
 - 2025 🧱🧠 DiffTOD: Planning with Diffusion Models for Target-Oriented Dialogue Systems. [ACL 2025](https://aclanthology.org/2025.acl-long.993/)
 - 2025 🧱🪜 Energy-Based Diffusion Language Models for Text Generation. [arXiv:2410.21357](https://arxiv.org/abs/2410.21357)
-- 2025 🧱🌊⚖️ On Powerful Ways to Generate: Autoregression, Diffusion, and Beyond. [arXiv:2510.06190](https://arxiv.org/abs/2510.06190)
+- 2025 🧱⚖️ On Powerful Ways to Generate: Autoregression, Diffusion, and Beyond. [arXiv:2510.06190](https://arxiv.org/abs/2510.06190)
 - 2025 🧱🪜 Non-Markovian Discrete Diffusion with Causal Language Models. [arXiv:2502.09767](https://arxiv.org/abs/2502.09767)
 - 2025 🧱🧩🤖 HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model. [arXiv:2503.10631](https://arxiv.org/abs/2503.10631)
 
@@ -68,11 +70,11 @@ A curated list of hybrid Diffusion + Autoregressive (DiffxAR) models for languag
 
 ### 2022
 
-- 2022 🧱🧩🪜 SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control. [arXiv:2210.17432](https://arxiv.org/abs/2210.17432)
+- 2022 🧱 SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control. [arXiv:2210.17432](https://arxiv.org/abs/2210.17432)
 - 2022 🧱 Diffusion-LM Improves Controllable Text Generation. [arXiv:2205.14217](https://arxiv.org/abs/2205.14217)
 
 ---
-## <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png"/> 🧩 Want to Contribute?
+## <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png"/> Want to Contribute?
 
 We welcome contributions! Please feel free to submit a PR or open an issue if you'd like to add new papers, tools, or correct any mistakes.
 
@@ -82,7 +84,7 @@ We welcome contributions! Please feel free to submit a PR or open an issue if yo
 - Use consistent formatting:  
   `YEAR ICONS Title. [arXiv:ID](https://arxiv.org/abs/ID)`
 - Try to tag each paper with:
-  - one of **🧱 / 🌊** (discrete vs continuous),
+  - one of **🧱 / 🌊**,
   - whether it is **🧩 / 🪜 / ⚙️**, and
   - optional domain tags **🧠 / 🤖 / 🧪 / ⚖️**.
 - Prefer papers with an **arXiv entry** so that every bullet has a stable link.
