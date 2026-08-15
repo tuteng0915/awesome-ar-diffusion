@@ -38,6 +38,7 @@ Note: Here, **AR** means **AutoRegressive**, not Augmented Reality. Currently, t
 
 | Tag | Paper | Author | Venue | Link |
 | --- | ----- | ------ | ----- | ---- |
+| 🧱🪜⚙️ | Learning from the Self-future: On-policy Self-distillation for dLLMs | Yifu Luo et al. | arXiv | [arXiv:2606.18195](https://arxiv.org/abs/2606.18195) · [Code](https://github.com/xingzhejun/d-opsd-code) |
 | 🧱⚙️🪜 | BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning | Ruiheng Wang et al. | arXiv | [arXiv:2605.13382](https://arxiv.org/abs/2605.13382) |
 | 🌊⚙️ | ELF: Embedded Language Flows | Keya Hu et al. | arXiv | [arXiv:2605.10938](https://arxiv.org/abs/2605.10938) |
 | 🧱⚙️🪜 | Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM | Chengyue Wu et al. | arXiv | [arXiv:2604.06832](https://arxiv.org/abs/2604.06832) |
