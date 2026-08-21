@@ -40,7 +40,7 @@ Note: Here, **AR** means **AutoRegressive**, not Augmented Reality. Currently, t
 | --- | ----- | ------ | ----- | ---- |
 | 🧱⚙️ | From Positionwise Confidence to Prefix Scheduling: Verifier Skipping in Speculative Decoding | Haoxuan Luo et al. | arXiv | [arXiv:2608.14787](https://arxiv.org/abs/2608.14787) |
 | 🧱⚙️ | DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees | Tianyi Li et al. | arXiv | [arXiv:2608.13524](https://arxiv.org/abs/2608.13524) |
-| 🧱⚙️🤖 | FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving | Zekai Li et al. | arXiv | [arXiv:2608.12932](https://arxiv.org/abs/2608.12932) |
+| 🧱⚙️🤖 | FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving | Zekai Li et al. | ICLR 2026 Workshop (ES-Reasoning) | [arXiv:2608.12932](https://arxiv.org/abs/2608.12932) |
 | 🧱🪜 | Reducing Pretraining-Generation Mismatch in Diffusion Language Models | Xiaocheng Lu et al. | arXiv | [arXiv:2608.09424](https://arxiv.org/abs/2608.09424) |
 | 🧱⚙️ | LibraSpec: Dynamic Diffusion-Based Speculative Decoding via Marginal-Gain-Driven Optimization | Zexun Lin et al. | arXiv | [arXiv:2608.08721](https://arxiv.org/abs/2608.08721) |
 | 🧱⚙️ | DBLAST: Dependent Block Drafting for Stochastic Speculative Decoding | Amirmohammad Karimi et al. | arXiv | [arXiv:2608.05448](https://arxiv.org/abs/2608.05448) |
@@ -51,12 +51,12 @@ Note: Here, **AR** means **AutoRegressive**, not Augmented Reality. Currently, t
 | 🧱⚙️ | Rethinking the Generation Order of Block Diffusion Language Models | Kai Syun Hou et al. | arXiv | [arXiv:2607.24306](https://arxiv.org/abs/2607.24306) |
 | 🧱🧩⚙️ | Speculative Correction: Draft-then-Refine Decoding for Diffusion Language Models | Brian K Chen et al. | arXiv | [arXiv:2608.02625](https://arxiv.org/abs/2608.02625) |
 | 🧱🪜⚙️👁️ | Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding | Yonggan Fu et al. | arXiv | [arXiv:2607.05722](https://arxiv.org/abs/2607.05722) |
-| 🧱🪜⚙️ | Set Diffusion: Interpolating Token Orderings Between Autoregression and Diffusion for Fast and Flexible Decoding | Marianne Arriola et al. | arXiv | [arXiv:2607.01775](https://arxiv.org/abs/2607.01775) |
+| 🧱🪜⚙️ | Set Diffusion: Interpolating Token Orderings Between Autoregression and Diffusion for Fast and Flexible Decoding | Marianne Arriola et al. | ICML 2026 | [arXiv:2607.01775](https://arxiv.org/abs/2607.01775) |
 | 🧱🪜⚙️ | Multi-Block Diffusion Language Models | Yijie Jin et al. | arXiv | [arXiv:2606.29215](https://arxiv.org/abs/2606.29215) |
 | 🧱🧩🪜⚙️ | Nemotron-Labs-TwoTower: Diffusion Language Modeling with Pretrained Autoregressive Context | Fitsum Reda et al. | arXiv | [arXiv:2606.26493](https://arxiv.org/abs/2606.26493) |
 | 🧱🪜⚙️ | Teaching Diffusion to Speculate Left-to-Right | Lexington Whalen et al. | arXiv | [arXiv:2606.11552](https://arxiv.org/abs/2606.11552) |
 | 🧱⚙️ | AsyncLane: Decoupling Refinement from Advancement in Diffusion Language Model Decoding | Yingxuan Ren et al. | arXiv | [arXiv:2606.08411](https://arxiv.org/abs/2606.08411) |
-| 🧱🧩⚙️🧠 | Diffusion Language Model Parallel Decoding via Product-of-Experts Bridge | Juntong Shi et al. | arXiv | [arXiv:2606.08048](https://arxiv.org/abs/2606.08048) |
+| 🧱🧩⚙️🧠 | Diffusion Language Model Parallel Decoding via Product-of-Experts Bridge | Juntong Shi et al. | ICML 2026 | [arXiv:2606.08048](https://arxiv.org/abs/2606.08048) |
 | 🧱⚙️🤖 | TBD-VLA: Temporal Block Diffusion Vision Language Action Model | Sung-Wook Lee et al. | arXiv | [arXiv:2606.07895](https://arxiv.org/abs/2606.07895) |
 | 🧱🧩⚙️ | WhiFlash: Accelerating Speculative Decoding with Token-Level Cross-Paradigm Routing | Young D. Kwon et al. | arXiv | [arXiv:2606.07710](https://arxiv.org/abs/2606.07710) |
 | 🧱🪜 | Data-Efficient Autoregressive-to-Diffusion Language Models via On-Policy Distillation | Xingyu Su et al. | arXiv | [arXiv:2606.06712](https://arxiv.org/abs/2606.06712) |
@@ -64,7 +64,7 @@ Note: Here, **AR** means **AutoRegressive**, not Augmented Reality. Currently, t
 | 🧱⚙️ | SimSD: Simple Speculative Decoding in Diffusion Language Models | Junxia Cui et al. | arXiv | [arXiv:2606.02544](https://arxiv.org/abs/2606.02544) |
 | 🧱⚙️👁️ | Prefix-Adaptive Block Diffusion for Efficient Document Recognition | Mingxu Chai et al. | arXiv | [arXiv:2605.16861](https://arxiv.org/abs/2605.16861) |
 | 🧱🪜⚙️ | Dynamic Chunking for Diffusion Language Models | Yichen Zhu et al. | arXiv | [arXiv:2605.15676](https://arxiv.org/abs/2605.15676) |
-| 🌊🧩🪜 | Where Should Diffusion Enter a Language Model? Geometry-Guided Hidden-State Replacement | Injin Kong et al. | arXiv | [arXiv:2605.14368](https://arxiv.org/abs/2605.14368) |
+| 🌊🧩🪜 | Where Should Diffusion Enter a Language Model? Geometry-Guided Hidden-State Replacement | Injin Kong et al. | ICML 2026 Workshop (FoGen, non-archival) | [arXiv:2605.14368](https://arxiv.org/abs/2605.14368) |
 | 🧱⚙️🪜 | BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning | Ruiheng Wang et al. | arXiv | [arXiv:2605.13382](https://arxiv.org/abs/2605.13382) |
 | 🧱🧩⚙️ | Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion | Chien Van Nguyen et al. | arXiv | [arXiv:2605.12825](https://arxiv.org/abs/2605.12825) |
 | 🌊⚙️ | ELF: Embedded Language Flows | Keya Hu et al. | arXiv | [arXiv:2605.10938](https://arxiv.org/abs/2605.10938) |
@@ -72,8 +72,8 @@ Note: Here, **AR** means **AutoRegressive**, not Augmented Reality. Currently, t
 | 🧱🧩⚙️ | S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation | Ligong Han et al. | arXiv | [arXiv:2603.25702](https://arxiv.org/abs/2603.25702) |
 | 🌊🧩⚙️ | CoDAR: Continuous Diffusion Language Models are More Powerful Than You Think | Junzhe Shen et al. | arXiv | [arXiv:2603.02547](https://arxiv.org/abs/2603.02547) |
 | 🧱⚙️🧠 | Advancing Block Diffusion Language Models for Test-Time Scaling | Yi Lu et al. | arXiv | [arXiv:2602.09555](https://arxiv.org/abs/2602.09555) |
-| 🧱🧩⚙️ | DFlash: Block Diffusion for Flash Speculative Decoding | Jian Chen et al. | arXiv | [arXiv:2602.06036](https://arxiv.org/abs/2602.06036) |
-| 🧱⚙️ | Swordsman: Entropy-Driven Adaptive Block Partition for Efficient Diffusion Language Models | Yu Zhang et al. | arXiv | [arXiv:2602.04399](https://arxiv.org/abs/2602.04399) |
+| 🧱🧩⚙️ | DFlash: Block Diffusion for Flash Speculative Decoding | Jian Chen et al. | ICML 2026 | [arXiv:2602.06036](https://arxiv.org/abs/2602.06036) |
+| 🧱⚙️ | Swordsman: Entropy-Driven Adaptive Block Partition for Efficient Diffusion Language Models | Yu Zhang et al. | ICML 2026 | [arXiv:2602.04399](https://arxiv.org/abs/2602.04399) |
 | 🧱⚙️🪜 | Causal Autoregressive Diffusion Language Model | Junhao Ruan et al. | arXiv | [arXiv:2601.22031](https://arxiv.org/abs/2601.22031) |
 | 🧱⚙️ | Diffusion In Diffusion: Reclaiming Global Coherence in Semi-Autoregressive Diffusion | Linrui Ma et al. | arXiv | [arXiv:2601.13599](https://arxiv.org/abs/2601.13599) |
 | 🧱⚙️🪜 | Autoregressive Models Rival Diffusion Models at ANY-ORDER Generation | Tianqi Du et al. | ICLR 2026 | [OpenReview](https://openreview.net/forum?id=vtDUomlazQ) |
@@ -83,12 +83,12 @@ Note: Here, **AR** means **AutoRegressive**, not Augmented Reality. Currently, t
 
 | Tag | Paper | Author | Venue | Link |
 | --- | ----- | ------ | ----- | ---- |
-| 🧱🪜⚙️ | Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed | Yonggan Fu et al. | arXiv | [arXiv:2512.14067](https://arxiv.org/abs/2512.14067) |
-| 🧱⚙️ | WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference | Aiwei Liu et al. | arXiv | [arXiv:2512.22737](https://arxiv.org/abs/2512.22737) |
+| 🧱🪜⚙️ | Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed | Yonggan Fu et al. | ICML 2026 | [arXiv:2512.14067](https://arxiv.org/abs/2512.14067) |
+| 🧱⚙️ | WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference | Aiwei Liu et al. | ICML 2026 | [arXiv:2512.22737](https://arxiv.org/abs/2512.22737) |
 | 🧱🪜⚙️👁️ | DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models | Lunbin Zeng et al. | arXiv | [arXiv:2512.15713](https://arxiv.org/abs/2512.15713) |
 | 🧱🧩⚙️ | ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding | Jia-Nan Li et al. | ICLR 2026 | [OpenReview](https://openreview.net/forum?id=LBtWaUc7FE) |
-| 🧱🧩🧠 | TiDAR: Think in Diffusion, Talk in Autoregression | Jingyu Liu et al. | arXiv | [arXiv:2511.08923](https://arxiv.org/abs/2511.08923) |
-| 🧱🧩 | Planned Diffusion: A Guiding Diffusion Language Model via Planning | Daniel Israel et al. | arXiv | [arXiv:2510.18087](https://arxiv.org/abs/2510.18087) |
+| 🧱🧩🧠 | TiDAR: Think in Diffusion, Talk in Autoregression | Jingyu Liu et al. | MLSys 2026 | [arXiv:2511.08923](https://arxiv.org/abs/2511.08923) |
+| 🧱🧩 | Planned Diffusion: A Guiding Diffusion Language Model via Planning | Daniel Israel et al. | ICLR 2026 | [arXiv:2510.18087](https://arxiv.org/abs/2510.18087) |
 | 🧱🧩🧠 | Planner and Executor: Collaboration Between Discrete Diffusion and Autoregressive Models in Reasoning | Lina Berrayana et al. | arXiv | [arXiv:2510.15244](https://arxiv.org/abs/2510.15244) |
 | 🌊🧩🧠 | LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning | Haoqiang Kang et al. | ICLR 2026 | [OpenReview](https://openreview.net/forum?id=z5cPEZ4n6i) |
 | 🧱🪜⚙️ | Sequential Diffusion Language Models | Yangzhou Liu et al. | arXiv | [arXiv:2509.24007](https://arxiv.org/abs/2509.24007) |
@@ -97,7 +97,7 @@ Note: Here, **AR** means **AutoRegressive**, not Augmented Reality. Currently, t
 | 🧱🪜⚙️ | Blockwise SFT for Diffusion Language Models: Reconciling Bidirectional Attention and Autoregressive Decoding | Bowen Sun et al. | arXiv | [arXiv:2508.19529](https://arxiv.org/abs/2508.19529) |
 | 🧱📚 | Dream 7B: Diffusion Large Language Models | Jiacheng Ye et al. | arXiv | [arXiv:2508.15487](https://arxiv.org/abs/2508.15487) |
 | 🌊🧩⚙️ | Cosmos: Compressed and Smooth Latent Space for Text Diffusion Modeling | Artem Meshchaninov et al. | NeurIPS 2025 | [NeurIPS](https://papers.neurips.cc/paper_files/paper/2025/hash/1506930fb75c82246e4d8648a66e4b27-Abstract-Conference.html) |
-| 🧱👁️ | LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning | Zebin You et al. | arXiv | [arXiv:2505.16933](https://arxiv.org/abs/2505.16933) |
+| 🧱👁️ | LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning | Zebin You et al. | CVPR 2026 | [arXiv:2505.16933](https://arxiv.org/abs/2505.16933) |
 | 🌊🧩🤖 | HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model | Jiaming Liu et al. | ICLR 2026 | [OpenReview](https://openreview.net/forum?id=H1KDMNOKQn) |
 | 🧱🧠 | DiffTOD: Planning with Diffusion Models for Target-Oriented Dialogue Systems | Hanwen Du et al. | ACL 2025 | [ACL Anthology](https://aclanthology.org/2025.acl-long.993/) |
 | 🧱🪜 | TESS 2: A Large-Scale Generalist Diffusion Language Model | Jaesung Tae et al. | ACL 2025 | [ACL Anthology](https://aclanthology.org/2025.acl-long.1029/) |
@@ -115,12 +115,12 @@ Note: Here, **AR** means **AutoRegressive**, not Augmented Reality. Currently, t
 
 | Tag | Paper | Author | Venue | Link |
 | --- | ----- | ------ | ----- | ---- |
-| 🌊🧩🤖 | Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression | Junjie Wen et al. | arXiv | [arXiv:2412.03293](https://arxiv.org/abs/2412.03293) |
+| 🌊🧩🤖 | Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression | Junjie Wen et al. | ICML 2025 | [arXiv:2412.03293](https://arxiv.org/abs/2412.03293) |
 | 🧱⚙️ | Beyond Autoregression: Fast LLMs via Self-Distillation Through Time | Justin Deschenaux et al. | ICLR 2025 | [OpenReview](https://openreview.net/forum?id=uZ5K4HeNwd) |
 | 🧱🪜 | Scaling Diffusion Language Models via Adaptation from Autoregressive Models | Shansan Gong et al. | ICLR 2025 | [OpenReview](https://openreview.net/forum?id=j1tSLYKwg8) |
 | 🧱🧠 | Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning | Jiacheng Ye et al. | ICLR 2025 | [OpenReview](https://openreview.net/forum?id=NRYgUzSPZz) |
 | 🌊🧩 | Diffusion Guided Language Modeling | Justin Lovelace et al. | Findings of ACL 2024 | [ACL Anthology](https://aclanthology.org/2024.findings-acl.887/) |
-| 🧱🧠 | Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models | Jiacheng Ye et al. | arXiv | [arXiv:2402.07754](https://arxiv.org/abs/2402.07754) |
+| 🧱🧠 | Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models | Jiacheng Ye et al. | NeurIPS 2024 | [arXiv:2402.07754](https://arxiv.org/abs/2402.07754) |
 
 
 ### 2023
@@ -128,9 +128,9 @@ Note: Here, **AR** means **AutoRegressive**, not Augmented Reality. Currently, t
 | Tag | Paper | Author | Venue | Link |
 | --- | ----- | ------ | ----- | ---- |
 | 🧱⚙️ | Sequential Data Generation with Groupwise Diffusion Process | Sangyun Lee et al. | arXiv | [arXiv:2310.01400](https://arxiv.org/abs/2310.01400) |
-| 🌊🧩 | PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model | Yizhe Zhang et al. | arXiv | [arXiv:2306.02531](https://arxiv.org/abs/2306.02531) |
+| 🌊🧩 | PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model | Yizhe Zhang et al. | NeurIPS 2023 | [arXiv:2306.02531](https://arxiv.org/abs/2306.02531) |
 | 🧱🧩 | AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation | Tong Wu et al. | NeurIPS 2023 | [OpenReview](https://openreview.net/forum?id=0EG6qUQ4xE) |
-| 🧱📚 | A Reparameterized Discrete Diffusion Model for Text Generation | Lin Zheng et al. | arXiv | [arXiv:2302.05737](https://arxiv.org/abs/2302.05737) |
+| 🧱📚 | A Reparameterized Discrete Diffusion Model for Text Generation | Lin Zheng et al. | COLM 2024 | [arXiv:2302.05737](https://arxiv.org/abs/2302.05737) |
 | 🧱⚙️ | SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control | Xiaochuang Han et al. | ACL 2023 | [ACL Anthology](https://aclanthology.org/2023.acl-long.647/) |
 
 
@@ -138,7 +138,7 @@ Note: Here, **AR** means **AutoRegressive**, not Augmented Reality. Currently, t
 
 | Tag | Paper | Author | Venue | Link |
 | --- | ----- | ------ | ----- | ---- |
-| 🌊📚 | Latent Diffusion for Language Generation | Justin Lovelace et al. | arXiv | [arXiv:2212.09462](https://arxiv.org/abs/2212.09462) |
+| 🌊📚 | Latent Diffusion for Language Generation | Justin Lovelace et al. | NeurIPS 2023 | [arXiv:2212.09462](https://arxiv.org/abs/2212.09462) |
 | 🌊📚 | Diffusion-LM Improves Controllable Text Generation | Xiang Lisa Li et al. | NeurIPS 2022 | [NeurIPS](https://papers.neurips.cc/paper_files/paper/2022/hash/1be5bc25d50895ee656b8c2d9eb89d6a-Abstract-Conference.html) |
 
 
