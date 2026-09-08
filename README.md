@@ -53,6 +53,7 @@ Note: Here, **AR** means **AutoRegressive**, not Augmented Reality. Currently, t
 | 🧱🪜⚙️👁️ | Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding | Yonggan Fu et al. | arXiv | [arXiv:2607.05722](https://arxiv.org/abs/2607.05722) |
 | 🧱🪜⚙️ | Set Diffusion: Interpolating Token Orderings Between Autoregression and Diffusion for Fast and Flexible Decoding | Marianne Arriola et al. | ICML 2026 | [arXiv:2607.01775](https://arxiv.org/abs/2607.01775) |
 | 🧱🪜⚙️ | Multi-Block Diffusion Language Models | Yijie Jin et al. | arXiv | [arXiv:2606.29215](https://arxiv.org/abs/2606.29215) |
+| 🧱🪜⚙️ | Learning from the Self-future: On-policy Self-distillation for dLLMs | Yifu Luo et al. | arXiv | [arXiv:2606.18195](https://arxiv.org/abs/2606.18195) · [Code](https://github.com/xingzhejun/d-opsd-code) |
 | 🧱🧩🪜⚙️ | Nemotron-Labs-TwoTower: Diffusion Language Modeling with Pretrained Autoregressive Context | Fitsum Reda et al. | arXiv | [arXiv:2606.26493](https://arxiv.org/abs/2606.26493) |
 | 🧱🪜⚙️ | Teaching Diffusion to Speculate Left-to-Right | Lexington Whalen et al. | arXiv | [arXiv:2606.11552](https://arxiv.org/abs/2606.11552) |
 | 🧱⚙️ | AsyncLane: Decoupling Refinement from Advancement in Diffusion Language Model Decoding | Yingxuan Ren et al. | arXiv | [arXiv:2606.08411](https://arxiv.org/abs/2606.08411) |
